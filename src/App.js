@@ -6,6 +6,8 @@ import SingleRecipe from "./pages/SingleRecipe";
 import Error from "./pages/Error";
 // import components
 import Navbar from "./components/Navbar";
+// supercazzola
+
 function App() {
   return (
     <Router>
